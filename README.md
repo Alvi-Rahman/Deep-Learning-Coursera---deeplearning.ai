@@ -55,7 +55,7 @@ the reason I would like to create this repository is purely for academic use (in
 ### 4. Convolutional Neural Network
 * Week 1
 	* [Quiz 1](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Week%201%20Quiz%20-%20The%20basics%20of%20ConvNets.md)
-	* [Convolutional Model- step by step](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv1.ipynb)
+	* [Convolutional Model- step by step](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv2.ipynb)
 	* [Convolutional Model- Application](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
 
 * Week 2
