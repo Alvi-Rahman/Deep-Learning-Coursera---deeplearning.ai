@@ -55,20 +55,22 @@ the reason I would like to create this repository is purely for academic use (in
 ### 4. Convolutional Neural Network
 * Week 1
 	* [Quiz 1](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Week%201%20Quiz%20-%20The%20basics%20of%20ConvNets.md)
-	* [Convolutional Model- step by step](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Step%20by%20Step%20-%20v1.ipynb)
+	* [Convolutional Model- step by step](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BStep%2Bby%2BStep%2B-%2Bv1.ipynb)
+	* [Convolutional Model- Application](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%2Bmodel%2B-%2BApplication%2B-%2Bv1.ipynb)
 
 * Week 2
 	* [Quiz 2](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Week%202%20Quiz%20-%20Deep%20convolutional%20models.md)
-	* [ResNets](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Residual%20Networks%20-%20v1.ipynb)
+	* [KerasTutorial](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Keras%2B-%2BTutorial%2B-%2BHappy%2BHouse%2Bv2.ipynb)
+	* [ResNets](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Residual%2BNetworks%2B-%2Bv2.ipynb)
 
 * Week 3
 	* [Quiz 3](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Week%203%20Quiz%20-%20Detection%20algorithms.md)
-	* [Car detection for Autonomous Driving](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Convolution%20model%20-%20Application%20-%20v1.ipynb)
+	* [Car detection for Autonomous Driving](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Autonomous%2Bdriving%2Bapplication%2B-%2BCar%2Bdetection%2B-%2Bv3.ipynb)
 
 * Week 4
 	* [Quiz 4](https://github.com/HeroKillerEver/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/week4%20quiz.md)
-	* [Neural Style Transfer](https://github.com/HeroKillerEver/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/Neural%20Style%20Transfer)
-	* [Face Recognition](https://github.com/HeroKillerEver/coursera-deep-learning/tree/master/Convolutional%20Neural%20Networks/Face%20Recognition)
+	* [Neural Style Transfer](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Art%20Generation%20with%20Neural%20Style%20Transfer%20-%20v2.ipynb)
+	* [Face Recognition](https://github.com/Alvi-Rahman/Deep-Learning-Coursera---deeplearning.ai/blob/master/4.%20Convolutional%20Neural%20Networks/Face%20Recognition%20for%20the%20Happy%20House%20-%20v3.ipynb)
 
 
 ### 5. Sequence Models
